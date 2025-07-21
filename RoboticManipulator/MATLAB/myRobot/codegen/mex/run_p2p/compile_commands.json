@@ -1,0 +1,560 @@
+[
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/externalDependency/libccd/src/ccd_ccd.c\" -o build/win64/ccd_ccd.o",
+    "file": "C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/externalDependency/libccd/src/ccd_ccd.c",
+    "output": "build/win64/ccd_ccd.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/externalDependency/libccd/src/ccd_mpr.c\" -o build/win64/ccd_mpr.o",
+    "file": "C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/externalDependency/libccd/src/ccd_mpr.c",
+    "output": "build/win64/ccd_mpr.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/externalDependency/libccd/src/ccd_polytope.c\" -o build/win64/ccd_polytope.o",
+    "file": "C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/externalDependency/libccd/src/ccd_polytope.c",
+    "output": "build/win64/ccd_polytope.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/externalDependency/libccd/src/ccd_vec3.c\" -o build/win64/ccd_vec3.o",
+    "file": "C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/externalDependency/libccd/src/ccd_vec3.c",
+    "output": "build/win64/ccd_vec3.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\g++ -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c++11 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/robotcore/builtins/libsrc/collisioncodegen/collisioncodegen_CollisionGeometry.cpp\" -o build/win64/collisioncodegen_CollisionGeometry.o",
+    "file": "C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/robotcore/builtins/libsrc/collisioncodegen/collisioncodegen_CollisionGeometry.cpp",
+    "output": "build/win64/collisioncodegen_CollisionGeometry.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\g++ -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c++11 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/robotcore/builtins/libsrc/collisioncodegen/collisioncodegen_api.cpp\" -o build/win64/collisioncodegen_api.o",
+    "file": "C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/robotcore/builtins/libsrc/collisioncodegen/collisioncodegen_api.cpp",
+    "output": "build/win64/collisioncodegen_api.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\g++ -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c++11 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/robotcore/builtins/libsrc/collisioncodegen/collisioncodegen_ccdExtensions.cpp\" -o build/win64/collisioncodegen_ccdExtensions.o",
+    "file": "C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/robotcore/builtins/libsrc/collisioncodegen/collisioncodegen_ccdExtensions.cpp",
+    "output": "build/win64/collisioncodegen_ccdExtensions.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\g++ -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c++11 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/robotcore/builtins/libsrc/collisioncodegen/collisioncodegen_checkCollision.cpp\" -o build/win64/collisioncodegen_checkCollision.o",
+    "file": "C:/Program Files/MATLAB/R2024b/toolbox/shared/robotics/robotcore/builtins/libsrc/collisioncodegen/collisioncodegen_checkCollision.cpp",
+    "output": "build/win64/collisioncodegen_checkCollision.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  run_p2p_data.c -o build/win64/run_p2p_data.o",
+    "file": "run_p2p_data.c",
+    "output": "build/win64/run_p2p_data.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  rt_nonfinite.c -o build/win64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  run_p2p_initialize.c -o build/win64/run_p2p_initialize.o",
+    "file": "run_p2p_initialize.c",
+    "output": "build/win64/run_p2p_initialize.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  run_p2p_terminate.c -o build/win64/run_p2p_terminate.o",
+    "file": "run_p2p_terminate.c",
+    "output": "build/win64/run_p2p_terminate.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  run_p2p.c -o build/win64/run_p2p.o",
+    "file": "run_p2p.c",
+    "output": "build/win64/run_p2p.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  RigidBody.c -o build/win64/RigidBody.o",
+    "file": "RigidBody.c",
+    "output": "build/win64/RigidBody.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  rigidBodyJoint.c -o build/win64/rigidBodyJoint.o",
+    "file": "rigidBodyJoint.c",
+    "output": "build/win64/rigidBodyJoint.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  CollisionSet.c -o build/win64/CollisionSet.o",
+    "file": "CollisionSet.c",
+    "output": "build/win64/CollisionSet.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  eye.c -o build/win64/eye.o",
+    "file": "eye.c",
+    "output": "build/win64/eye.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  rigidBodyTree.c -o build/win64/rigidBodyTree.o",
+    "file": "rigidBodyTree.c",
+    "output": "build/win64/rigidBodyTree.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  eul2quat.c -o build/win64/eul2quat.o",
+    "file": "eul2quat.c",
+    "output": "build/win64/eul2quat.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  minjerkpolytraj.c -o build/win64/minjerkpolytraj.o",
+    "file": "minjerkpolytraj.c",
+    "output": "build/win64/minjerkpolytraj.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  mpower.c -o build/win64/mpower.o",
+    "file": "mpower.c",
+    "output": "build/win64/mpower.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  find.c -o build/win64/find.o",
+    "file": "find.c",
+    "output": "build/win64/find.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  indexShapeCheck.c -o build/win64/indexShapeCheck.o",
+    "file": "indexShapeCheck.c",
+    "output": "build/win64/indexShapeCheck.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  warning.c -o build/win64/warning.o",
+    "file": "warning.c",
+    "output": "build/win64/warning.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  mtimes.c -o build/win64/mtimes.o",
+    "file": "mtimes.c",
+    "output": "build/win64/mtimes.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  mldivide.c -o build/win64/mldivide.o",
+    "file": "mldivide.c",
+    "output": "build/win64/mldivide.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  qrsolve.c -o build/win64/qrsolve.o",
+    "file": "qrsolve.c",
+    "output": "build/win64/qrsolve.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  infocheck.c -o build/win64/infocheck.o",
+    "file": "infocheck.c",
+    "output": "build/win64/infocheck.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  any.c -o build/win64/any.o",
+    "file": "any.c",
+    "output": "build/win64/any.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  constructM.c -o build/win64/constructM.o",
+    "file": "constructM.c",
+    "output": "build/win64/constructM.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  inv.c -o build/win64/inv.o",
+    "file": "inv.c",
+    "output": "build/win64/inv.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  solvePoly.c -o build/win64/solvePoly.o",
+    "file": "solvePoly.c",
+    "output": "build/win64/solvePoly.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  assertValidSizeArg.c -o build/win64/assertValidSizeArg.o",
+    "file": "assertValidSizeArg.c",
+    "output": "build/win64/assertValidSizeArg.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  linspace.c -o build/win64/linspace.o",
+    "file": "linspace.c",
+    "output": "build/win64/linspace.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  polyder.c -o build/win64/polyder.o",
+    "file": "polyder.c",
+    "output": "build/win64/polyder.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  minsnappolytraj.c -o build/win64/minsnappolytraj.o",
+    "file": "minsnappolytraj.c",
+    "output": "build/win64/minsnappolytraj.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  quinticpolytraj.c -o build/win64/quinticpolytraj.o",
+    "file": "quinticpolytraj.c",
+    "output": "build/win64/quinticpolytraj.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  cubicpolytraj.c -o build/win64/cubicpolytraj.o",
+    "file": "cubicpolytraj.c",
+    "output": "build/win64/cubicpolytraj.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  trapveltraj.c -o build/win64/trapveltraj.o",
+    "file": "trapveltraj.c",
+    "output": "build/win64/trapveltraj.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  ppval.c -o build/win64/ppval.o",
+    "file": "ppval.c",
+    "output": "build/win64/ppval.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  all.c -o build/win64/all.o",
+    "file": "all.c",
+    "output": "build/win64/all.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  rottraj.c -o build/win64/rottraj.o",
+    "file": "rottraj.c",
+    "output": "build/win64/rottraj.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  validateTimeScaling.c -o build/win64/validateTimeScaling.o",
+    "file": "validateTimeScaling.c",
+    "output": "build/win64/validateTimeScaling.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  slerp.c -o build/win64/slerp.o",
+    "file": "slerp.c",
+    "output": "build/win64/slerp.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  trvec2tform.c -o build/win64/trvec2tform.o",
+    "file": "trvec2tform.c",
+    "output": "build/win64/trvec2tform.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  quat2tform.c -o build/win64/quat2tform.o",
+    "file": "quat2tform.c",
+    "output": "build/win64/quat2tform.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  ikine_myRobot.c -o build/win64/ikine_myRobot.o",
+    "file": "ikine_myRobot.c",
+    "output": "build/win64/ikine_myRobot.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  power.c -o build/win64/power.o",
+    "file": "power.c",
+    "output": "build/win64/power.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  mod.c -o build/win64/mod.o",
+    "file": "mod.c",
+    "output": "build/win64/mod.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  wrapTo2Pi.c -o build/win64/wrapTo2Pi.o",
+    "file": "wrapTo2Pi.c",
+    "output": "build/win64/wrapTo2Pi.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  rotm2eul.c -o build/win64/rotm2eul.o",
+    "file": "rotm2eul.c",
+    "output": "build/win64/rotm2eul.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  atan2.c -o build/win64/atan2.o",
+    "file": "atan2.c",
+    "output": "build/win64/atan2.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  sum.c -o build/win64/sum.o",
+    "file": "sum.c",
+    "output": "build/win64/sum.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  repmat.c -o build/win64/repmat.o",
+    "file": "repmat.c",
+    "output": "build/win64/repmat.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  allOrAny.c -o build/win64/allOrAny.o",
+    "file": "allOrAny.c",
+    "output": "build/win64/allOrAny.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  unique.c -o build/win64/unique.o",
+    "file": "unique.c",
+    "output": "build/win64/unique.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  sortLE.c -o build/win64/sortLE.o",
+    "file": "sortLE.c",
+    "output": "build/win64/sortLE.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  RigidBodyTreeUtils.c -o build/win64/RigidBodyTreeUtils.o",
+    "file": "RigidBodyTreeUtils.c",
+    "output": "build/win64/RigidBodyTreeUtils.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  validateattributes.c -o build/win64/validateattributes.o",
+    "file": "validateattributes.c",
+    "output": "build/win64/validateattributes.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  RigidBodyTree1.c -o build/win64/RigidBodyTree1.o",
+    "file": "RigidBodyTree1.c",
+    "output": "build/win64/RigidBodyTree1.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  normalizeRows.c -o build/win64/normalizeRows.o",
+    "file": "normalizeRows.c",
+    "output": "build/win64/normalizeRows.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  eml_mtimes_helper.c -o build/win64/eml_mtimes_helper.o",
+    "file": "eml_mtimes_helper.c",
+    "output": "build/win64/eml_mtimes_helper.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  svd.c -o build/win64/svd.o",
+    "file": "svd.c",
+    "output": "build/win64/svd.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  svd1.c -o build/win64/svd1.o",
+    "file": "svd1.c",
+    "output": "build/win64/svd1.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  diag.c -o build/win64/diag.o",
+    "file": "diag.c",
+    "output": "build/win64/diag.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  handle.c -o build/win64/handle.o",
+    "file": "handle.c",
+    "output": "build/win64/handle.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  interface/_coder_run_p2p_api.c -o build/win64/_coder_run_p2p_api.o",
+    "file": "interface/_coder_run_p2p_api.c",
+    "output": "build/win64/_coder_run_p2p_api.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  interface/_coder_run_p2p_mex.c -o build/win64/_coder_run_p2p_mex.o",
+    "file": "interface/_coder_run_p2p_mex.c",
+    "output": "build/win64/_coder_run_p2p_mex.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  eml_int_forloop_overflow_check.c -o build/win64/eml_int_forloop_overflow_check.o",
+    "file": "eml_int_forloop_overflow_check.c",
+    "output": "build/win64/eml_int_forloop_overflow_check.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  sumMatrixIncludeNaN.c -o build/win64/sumMatrixIncludeNaN.o",
+    "file": "sumMatrixIncludeNaN.c",
+    "output": "build/win64/sumMatrixIncludeNaN.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  nthroot.c -o build/win64/nthroot.o",
+    "file": "nthroot.c",
+    "output": "build/win64/nthroot.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  strcmp.c -o build/win64/strcmp.o",
+    "file": "strcmp.c",
+    "output": "build/win64/strcmp.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  importrobot.c -o build/win64/importrobot.o",
+    "file": "importrobot.c",
+    "output": "build/win64/importrobot.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  xgeqp3.c -o build/win64/xgeqp3.o",
+    "file": "xgeqp3.c",
+    "output": "build/win64/xgeqp3.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  sqrt.c -o build/win64/sqrt.o",
+    "file": "sqrt.c",
+    "output": "build/win64/sqrt.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  histcounts.c -o build/win64/histcounts.o",
+    "file": "histcounts.c",
+    "output": "build/win64/histcounts.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  interpSnapTraj.c -o build/win64/interpSnapTraj.o",
+    "file": "interpSnapTraj.c",
+    "output": "build/win64/interpSnapTraj.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  normalize.c -o build/win64/normalize.o",
+    "file": "normalize.c",
+    "output": "build/win64/normalize.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  log.c -o build/win64/log.o",
+    "file": "log.c",
+    "output": "build/win64/log.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  sqrt1.c -o build/win64/sqrt1.o",
+    "file": "sqrt1.c",
+    "output": "build/win64/sqrt1.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  asin.c -o build/win64/asin.o",
+    "file": "asin.c",
+    "output": "build/win64/asin.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  wrapToPi.c -o build/win64/wrapToPi.o",
+    "file": "wrapToPi.c",
+    "output": "build/win64/wrapToPi.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  sort.c -o build/win64/sort.o",
+    "file": "sort.c",
+    "output": "build/win64/sort.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  round.c -o build/win64/round.o",
+    "file": "round.c",
+    "output": "build/win64/round.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  sortIdx.c -o build/win64/sortIdx.o",
+    "file": "sortIdx.c",
+    "output": "build/win64/sortIdx.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  run_p2p_emxutil.c -o build/win64/run_p2p_emxutil.o",
+    "file": "run_p2p_emxutil.c",
+    "output": "build/win64/run_p2p_emxutil.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  validateTrajConstNameValueInputs.c -o build/win64/validateTrajConstNameValueInputs.o",
+    "file": "validateTrajConstNameValueInputs.c",
+    "output": "build/win64/validateTrajConstNameValueInputs.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  computePolyCoefAndTimeOfArrival.c -o build/win64/computePolyCoefAndTimeOfArrival.o",
+    "file": "computePolyCoefAndTimeOfArrival.c",
+    "output": "build/win64/computePolyCoefAndTimeOfArrival.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  quaternion.c -o build/win64/quaternion.o",
+    "file": "quaternion.c",
+    "output": "build/win64/quaternion.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  RigidBodyTreeDynamics.c -o build/win64/RigidBodyTreeDynamics.o",
+    "file": "RigidBodyTreeDynamics.c",
+    "output": "build/win64/RigidBodyTreeDynamics.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  run_p2p_mexutil.c -o build/win64/run_p2p_mexutil.o",
+    "file": "run_p2p_mexutil.c",
+    "output": "build/win64/run_p2p_mexutil.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  interface/_coder_run_p2p_info.c -o build/win64/_coder_run_p2p_info.o",
+    "file": "interface/_coder_run_p2p_info.c",
+    "output": "build/win64/_coder_run_p2p_info.o"
+  },
+  {
+    "directory": "D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2024b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\" -I \"D:\\6R_robotic_arm\\myRobot\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\\shared_robotics\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\" -I \"C:\\Program Files\\MATLAB\\R2024b\\toolbox\\shared\\robotics\\externalDependency\\libccd\\src\\ccd\" -I \"D:\\6R_robotic_arm\\myRobot\\codegen\\mex\\run_p2p\\interface\" -I \"C:\\Program Files\\MATLAB\\R2024b\\extern\\include\" -I \".\" -Dccd_EXPORTS -DHAVE_LAPACK_CONFIG_H -DLAPACK_COMPLEX_STRUCTURE -DMW_HAVE_LAPACK_DECLS -DMODEL=run_p2p_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2 -fno-predictive-commoning -Wno-stringop-overflow -Wno-maybe-uninitialized  \"C:/Program Files/MATLAB/R2024b/extern/version/c_mexapi_version.c\" -o build/win64/c_mexapi_version.o",
+    "file": "C:/Program Files/MATLAB/R2024b/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.o"
+  }
+]
